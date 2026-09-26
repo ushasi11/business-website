@@ -31,10 +31,10 @@ business-website/
 
 ## Visual Documentation
 ### Desktop View
-![Desktop View](images/1000385852.jpg)
+![Desktop View](images/original/1000385852.jpg)
 ### Mobile View
-![Mobile View 1](images/1000385854.jpg)
-![Mobile View 2](images/1000385853.jpg)
+![Mobile View 1](images/original/1000385854.jpg)
+![Mobile View 2](images/original/1000385853.jpg)
 Technical Details & Component Architecture
 Layouts: CSS Grid is utilized for the primary feature and service cards to ensure equal spacing and auto-fitting columns. CSS Flexbox is used to align the navigation bar elements.
 
